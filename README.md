@@ -10,6 +10,7 @@ Environment used
 
 
 Third-party libraries
+
     Alamofire was used to get the info from Yelp Fusion API
     For more -> https://cocoapods.org/pods/Alamofire
 
@@ -29,12 +30,12 @@ General
    Cache option enabled on all images.
    Images with fade transition, it means with animation.
    Images with rounded edges. (corner radius).
- 
+
 Details view
    Added pageControl below CollectionView.
    Image centered on CollectionView.
    Fixed phone field, no information was available when the phone number did not exist.
- 
+
 Root view
    Added ActivityIndicator indicating to wait for the search.
    Added AlertController showing that no results were found.
