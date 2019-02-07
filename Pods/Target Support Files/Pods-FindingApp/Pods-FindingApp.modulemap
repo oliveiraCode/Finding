@@ -1,0 +1,6 @@
+framework module Pods_FindingApp {
+  umbrella header "Pods-FindingApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
